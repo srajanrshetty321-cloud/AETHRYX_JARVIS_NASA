@@ -1,0 +1,6 @@
+{
+  "name": "AETHRYX JARVIS",
+  "description": "Your Voice. Earth's Intelligence. NASA Space Apps Challenge 2026 Earth System Trend Detective platform for global NASA Earth observation retrieval, statistical trend analysis, anomaly detection, and voice-first AI science assistance.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
